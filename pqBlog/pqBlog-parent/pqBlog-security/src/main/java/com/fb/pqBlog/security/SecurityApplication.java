@@ -1,11 +1,12 @@
-package com.fb.pqBlg;
+package com.fb.pqBlog.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiApplication {
+public class SecurityApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(ApiApplication.class);
+        SpringApplication.run(SecurityApplication.class);
     }
 }

@@ -1,4 +1,4 @@
-package com.fb.pqBlg.manage.web.controlle;
+package com.fb.pqBlg.api.manage.web.controller;
 
 import io.swagger.annotations.Api;
 
